@@ -1,9 +1,10 @@
 import pymem
 import pymem.process
 
-dwEntityList = 0x4DA31EC
-dwGlowObjectManager = 0x52EB678
-m_iGlowIndex = 0xA438
+#https://github.com/frk1/hazedumper/blob/master/csgo.cs
+dwEntityList = 0x4DFCE74
+dwGlowObjectManager = 0x5357948
+m_iGlowIndex = 0x10488
 m_iTeamNum = 0xF4
 
 
